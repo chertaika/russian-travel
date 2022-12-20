@@ -1,0 +1,7 @@
+.content {
+  padding: 0 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 92px;
+  align-items: center;
+}
